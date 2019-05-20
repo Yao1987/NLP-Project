@@ -1,0 +1,13 @@
+name: FinalProject
+title: FinalProject
+username:
+account: yao1987
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 938383
+bundleId: 2096667
+url: https://yao1987.shinyapps.io/FinalProject/
+when: 1558365272.89013
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: df_bigrams.RData|df_fivegrams.RData|df_fourgrams.RData|df_trigrams.RData|PredictWordAlgo.R|present-rpubs.html|present.md|present.Rpres|present-figure/unnamed-chunk-2-1.png
